@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Rutgers BootCamp Friend Finder - Node and Express Servers homeWork week 13",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donaldblanc/FriendFinder.git"
+  },
+  "author": "Donald Blanc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donaldblanc/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Donaldblanc/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
