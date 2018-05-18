@@ -1,8 +1,8 @@
 
 var friends = [
 {
-     name :"Ahmed",
-     photo :"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+     name :"Donald Blanc",
+     photo :"https://media.licdn.com/dms/image/C4D03AQF1GQm_wKWhiw/profile-displayphoto-shrink_200_200/0?e=1531958400&v=beta&t=gaMStO4pm9xpbzjcpWioDq19MmOVELEnI_6Aj_zycD8",
      scores :[
         "5",
         "1",
